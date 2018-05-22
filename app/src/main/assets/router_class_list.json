@@ -1,0 +1,22 @@
+{
+  "test": [
+    {
+      "url": "hmiou://m.54jietiao.com/test/test1",
+      "iclass": "",
+      "aclass": "com.hm.iou.router.demo.TestActivity1"
+    },
+    {
+      "url": "hmiou://m.54jietiao.com/test/test2",
+      "iclass": "",
+      "aclass": "com.bwton.router.demo.MainActivity"
+    }
+  ],
+  "main": [
+    {
+      "url": "hmiou://m.54jietiao.com/main/index",
+      "iclass": "",
+      "aclass": "com.hm.iou.router.demo.TestActivity1"
+    }
+  ]
+}
+

@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="router_lack_params">缺少必填参数，跳转失败</string>
+
+</resources>
